@@ -1,0 +1,12 @@
+docs/
+data/
+*.pkl
+output/
+
+__pycache__/
+*.pyc
+.venv/
+
+README_local.md
+
+
